@@ -1,0 +1,7 @@
+__pycache__/
+data/Online-Mind2Web/generated_steps/
+data/Online-Mind2Web/rag_data/
+/test/
+/dataset/
+token_results/
+Logs/

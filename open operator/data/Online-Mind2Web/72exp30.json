@@ -1,0 +1,212 @@
+[
+    {
+        "task_id": "ade4c09ad3fdb1607209750924cd232f",
+        "confirmed_task": "Compare available plans for the AeroAPI on Flightaware.",
+        "website": "https://www.flightaware.com/",
+        "reference_length": 4,
+        "level": "easy"
+    },
+    {
+        "task_id": "fb7b4f784cfde003e2548fdf4e8d6b4f",
+        "confirmed_task": "Open the page with an overview of the submission of releases on Discogs.",
+        "website": "https://www.discogs.com/",
+        "reference_length": 6,
+        "level": "medium"
+    },
+    {
+        "task_id": "046138801a05ddf56ad94e8672942496",
+        "confirmed_task": "Find discussions of the community and open one with the most replies on Flightaware.",
+        "website": "https://www.flightaware.com/",
+        "reference_length": 6,
+        "level": "medium"
+    },
+    {
+        "task_id": "48c73f3f53e2611c4a1052457c1033db",
+        "confirmed_task": "Get the report from the final environmental impact statement for the Jamaica Bus Depot expansion on new.mta.info.",
+        "website": "https://new.mta.info/",
+        "reference_length": 10,
+        "level": "medium"
+    },
+    {
+        "task_id": "b320c68bffc1f3c7f2a8dc9d5478fb27",
+        "confirmed_task": "Find a walkthrough for the game \"The Legend of Zelda: Breath of the Wild\" on ign.",
+        "website": "https://www.ign.com/",
+        "reference_length": 6,
+        "level": "medium"
+    },
+    {
+        "task_id": "aa4b5cb7114fcc138ade82b4b9716d24",
+        "confirmed_task": "Find an editor's choice review with a score of 10 in the boardgame category on ign.",
+        "website": "https://www.ign.com/",
+        "reference_length": 8,
+        "level": "medium"
+    },
+    {
+        "task_id": "005be9dd91c95669d6ddde9ae667125c",
+        "confirmed_task": "Find the weight of baggage allowance for economy class on Qatar Airways.",
+        "website": "https://www.qatarairways.com/",
+        "reference_length": 4,
+        "level": "easy"
+    },
+    {
+        "task_id": "323bd85e3559655d89e5496b951a25e8",
+        "confirmed_task": "Tell me information about what identification I need to bring on my trip on Amtrak.",
+        "website": "https://www.amtrak.com/",
+        "reference_length": 6,
+        "level": "medium"
+    },
+    {
+        "task_id": "56f8890a837c49f7df766b9c981646f3",
+        "confirmed_task": "Show crazy credits for the movie \" Prometheus\" on IMDb.",
+        "website": "https://www.imdb.com/",
+        "reference_length": 6,
+        "level": "medium"
+    },
+    {
+        "task_id": "561693d6eec7bbfba3fefe9e4b26decb",
+        "confirmed_task": "Browse Marriott Bonvoy credit cards on Marriott.",
+        "website": "https://www.marriott.com/",
+        "reference_length": 4,
+        "level": "easy"
+    },
+    {
+        "task_id": "bfa2de159be6978acf2702be31a2eeeb",
+        "confirmed_task": "Show me the options for a roundtrip leaving from Las Vegas on flexible dates on the interactive map on united.",
+        "website": "https://www.united.com/",
+        "reference_length": 12,
+        "level": "hard"
+    },
+    {
+        "task_id": "4091bdd3fa64a5b0d912bc08eaf9c824",
+        "confirmed_task": "Find the list of neighborhood maps for Brooklyn on new.mta.info.",
+        "website": "https://new.mta.info/",
+        "reference_length": 5,
+        "level": "easy"
+    },
+    {
+        "task_id": "6ebde509dca8f15c0fa1bd74f071e8d6",
+        "confirmed_task": "Search for a job in Miami, Florida, in Human Resources on target.",
+        "website": "https://www.target.com/",
+        "reference_length": 14,
+        "level": "hard"
+    },
+    {
+        "task_id": "34ccd15a8ea8fd3895af83f5ccf62369",
+        "confirmed_task": "Find out what to do when I lose an item on a bus on us.megabus.",
+        "website": "https://us.megabus.com/",
+        "reference_length": 3,
+        "level": "easy"
+    },
+    {
+        "task_id": "b6d10e9bd19b4009a02dea0e98f4e1ae",
+        "confirmed_task": "Check the current standings for MLS on Fox Sports.",
+        "website": "https://www.foxsports.com/",
+        "reference_length": 4,
+        "level": "easy"
+    },
+    {
+        "task_id": "d71be72aa25c3eab8eea47a0e60382e2",
+        "confirmed_task": "Find technical specs for the latest Macbook Air on Apple.",
+        "website": "https://www.apple.com/",
+        "reference_length": 4,
+        "level": "easy"
+    },
+    {
+        "task_id": "0b51b4fa0295ae80ccd176ebdad6fff6",
+        "confirmed_task": "Search for a red Toyota Corolla from model years 2018 to 2023 on CarMax.",
+        "website": "https://www.carmax.com/",
+        "reference_length": 13,
+        "level": "hard"
+    },
+    {
+        "task_id": "3f312ae3efc3c3e90ababe050dd4e7ae",
+        "confirmed_task": "Find the current NFL standings for the AFC East division on NFL.com and go to the page on which team is in first place.",
+        "website": "https://www.nfl.com/",
+        "reference_length": 4,
+        "level": "easy"
+    },
+    {
+        "task_id": "95cad96f2e43f3c0d8efad1331c77c8c",
+        "confirmed_task": "View the list of the Most Popular TV on rotten tomatoes.",
+        "website": "https://www.rottentomatoes.com/",
+        "reference_length": 3,
+        "level": "easy"
+    },
+    {
+        "task_id": "b64f938af842f6a1b4489d0e49a785a7",
+        "confirmed_task": "Get the frozen vegan cheese pizza between 5 to 10 USD on Target.",
+        "website": "https://www.target.com/",
+        "reference_length": 17,
+        "level": "hard"
+    },
+    {
+        "task_id": "f27c0a7b8b0bb33d37698dff227fc8d7",
+        "confirmed_task": "Browse used Mercedes-Benz cars from model years 2004 to 2012 on KBB and sort by highest price.",
+        "website": "https://www.kbb.com/",
+        "reference_length": 11,
+        "level": "hard"
+    },
+    {
+        "task_id": "8fdec8eeffd3491e6526cc78c028120b",
+        "confirmed_task": "See Nissan and Honda cars for sale near Kentwood, MI 49512 on CarMax.",
+        "website": "https://www.carmax.com/",
+        "reference_length": 12,
+        "level": "hard"
+    },
+    {
+        "task_id": "608c595eec271fa5dc03506923519994",
+        "confirmed_task": "Calculate a FedEx Ground shipping rate for a 3-pound package from zip code 10019 to zip code 90028.",
+        "website": "https://www.fedex.com/en-us/home.html",
+        "reference_length": 9,
+        "level": "medium"
+    },
+    {
+        "task_id": "a7a73c8fa75441fc76df9746c327bdd6",
+        "confirmed_task": "Estimate the cost of a photographer in 07055 for a 4-hour project.",
+        "website": "https://www.thumbtack.com/",
+        "reference_length": 8,
+        "level": "medium"
+    },
+    {
+        "task_id": "cfafe3771369d1d261e9f7ecd44c296d",
+        "confirmed_task": "Find the highest-rated dealer for Cadillac with a rating above 4 stars within 20 miles of zip 60606.",
+        "website": "https://www.cars.com/",
+        "reference_length": 6,
+        "level": "medium"
+    },
+    {
+        "task_id": "816851ff92ff0219acf4364dcc2c4692",
+        "confirmed_task": "Search for boys' infant pajamas below $40.",
+        "website": "https://www.macys.com/",
+        "reference_length": 10,
+        "level": "medium"
+    },
+    {
+        "task_id": "8244409b2c82043f966cad05f9afe132",
+        "confirmed_task": "Find the best Audiologist within 50 miles of New York, NY, with a rating of 4 and above.",
+        "website": "https://doctor.webmd.com/",
+        "reference_length": 13,
+        "level": "hard"
+    },
+    {
+        "task_id": "e7301bb694871429bf2eb36c3a72186c",
+        "confirmed_task": "Find baby shoes priced under $20 with a 5-star rating.",
+        "website": "https://www.macys.com/",
+        "reference_length": 6,
+        "level": "medium"
+    },
+    {
+        "task_id": "3c1ffc3f494e423b3c434c79e35da8f3",
+        "confirmed_task": "Find 12 Monkeys community and view the latest posts mentioning James Cole.",
+        "website": "https://www.reddit.com/",
+        "reference_length": 6,
+        "level": "medium"
+    },
+    {
+        "task_id": "070c907d34a4ce71dfdbea38f9c5d4d8",
+        "confirmed_task": "Find a dentist who specializes in pediatric dentistry and is located near zip code 90210 (within 5-mile distance).",
+        "website": "https://www.healthgrades.com/",
+        "reference_length": 7,
+        "level": "medium"
+    }
+]

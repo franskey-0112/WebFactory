@@ -1,0 +1,46 @@
+# Embedding Model Configuration for OperatorVisionRAGConstructor
+
+[model]
+# Model name and paths
+model_name = "/home/ubuntu/data/csb/Embedding/Qwen2-VL-TokenSelection-2B"
+checkpoint_path = "/home/ubuntu/data/csb/Embedding/experiments/train/qwen2_vl-lite_full-lora8-bsz128x8x2-interleave_0.2-lr5e5-max_step_256-warmup_12-uigraph_select_0.5-lm_skip_all-vis_skip_all/huggingface"
+model_backbone = "qwen2_vl_tokenselection"
+
+[data]
+# Data paths
+cand_json_path = "/home/ubuntu/data/csb/Embedding/data/processed_cand_with_task.json"
+embedding_parquet_path = "/home/ubuntu/data/csb/Embedding/data/trajectory_embedding.parquet"
+
+[training]
+# Training parameters
+lora = true
+pooling = "eos"
+normalize = true
+resize_use_processor = true
+max_len = 65536
+
+[runtime]
+# Runtime parameters
+per_device_eval_batch_size = 2
+dataloader_num_workers = 2
+device = "cuda"
+
+[image_processing]
+# Image processing parameters
+max_size = 800
+quality = 85
+
+[reranking]
+# GPT re-ranking parameters
+model = "gpt-4o"
+max_tokens = 1500
+temperature = 0.0
+candidate_image_base_path = "/home/ubuntu/data/csb/images/embedding/GAE-Bench/images/Online-Mind2Web"
+
+[cache]
+# RAG cache settings
+default_cache_dir = "rag_cache"
+cache_index_filename = "rag_index.index"
+cache_config_filename = "rag_config.json"
+enable_cache_by_default = true
+cache_expiry_days = 30 

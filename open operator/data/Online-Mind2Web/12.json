@@ -1,0 +1,79 @@
+[
+    {
+        "task_id": "6ebde509dca8f15c0fa1bd74f071e8d6",
+        "confirmed_task": "Search for a job in Miami, Florida, in Human Resources on target.",
+        "website": "https://www.target.com/",
+        "reference_length": 14,
+        "level": "hard"
+    },
+    {
+        "task_id": "95cad96f2e43f3c0d8efad1331c77c8c",
+        "confirmed_task": "View the list of the Most Popular TV on rotten tomatoes.",
+        "website": "https://www.rottentomatoes.com/",
+        "reference_length": 3,
+        "level": "easy"
+    },
+    {
+        "task_id": "323bd85e3559655d89e5496b951a25e8",
+        "confirmed_task": "Tell me information about what identification I need to bring on my trip on Amtrak.",
+        "website": "https://www.amtrak.com/",
+        "reference_length": 6,
+        "level": "medium"
+    },
+    {
+        "task_id": "4091bdd3fa64a5b0d912bc08eaf9c824",
+        "confirmed_task": "Find the list of neighborhood maps for Brooklyn on new.mta.info.",
+        "website": "https://new.mta.info/",
+        "reference_length": 5,
+        "level": "easy"
+    },
+    {
+        "task_id": "046138801a05ddf56ad94e8672942496",
+        "confirmed_task": "Find discussions of the community and open one with the most replies on Flightaware.",
+        "website": "https://www.flightaware.com/",
+        "reference_length": 6,
+        "level": "medium"
+    },
+    {
+        "task_id": "aa4b5cb7114fcc138ade82b4b9716d24",
+        "confirmed_task": "Find an editor's choice review with a score of 10 in the boardgame category on ign.",
+        "website": "https://www.ign.com/",
+        "reference_length": 8,
+        "level": "medium"
+    },
+    {
+        "task_id": "ade4c09ad3fdb1607209750924cd232f",
+        "confirmed_task": "Compare available plans for the AeroAPI on Flightaware.",
+        "website": "https://www.flightaware.com/",
+        "reference_length": 4,
+        "level": "easy"
+    },
+    {
+        "task_id": "b6d10e9bd19b4009a02dea0e98f4e1ae",
+        "confirmed_task": "Check the current standings for MLS on Fox Sports.",
+        "website": "https://www.foxsports.com/",
+        "reference_length": 4,
+        "level": "easy"
+    },
+    {
+        "task_id": "d71be72aa25c3eab8eea47a0e60382e2",
+        "confirmed_task": "Find technical specs for the latest Macbook Air on Apple.",
+        "website": "https://www.apple.com/",
+        "reference_length": 4,
+        "level": "easy"
+    },
+    {
+        "task_id": "b320c68bffc1f3c7f2a8dc9d5478fb27",
+        "confirmed_task": "Find a walkthrough for the game \"The Legend of Zelda: Breath of the Wild\" on ign.",
+        "website": "https://www.ign.com/",
+        "reference_length": 6,
+        "level": "medium"
+    },
+    {
+        "task_id": "b64f938af842f6a1b4489d0e49a785a7",
+        "confirmed_task": "Get the frozen vegan cheese pizza between 5 to 10 USD on Target.",
+        "website": "https://www.target.com/",
+        "reference_length": 17,
+        "level": "hard"
+    }
+]

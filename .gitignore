@@ -1,0 +1,62 @@
+# Next.js
+.next/
+out/
+build/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Logs
+*.log
+test/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Large model weights / embeddings
+open operator/Embedding/VLM2Vec-pro/
+open operator/Embedding/experiments/
+*.index
+*.parquet
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+# Evaluation artifacts
+screenshots/
+screens/
+cua_test/
+results/

@@ -1,0 +1,240 @@
+[
+    {
+        "task_id": "239a29bde438fe44fe17fe1390ef1634",
+        "confirmed_task": "Find me a gluten-free diet to lose weight for a pregnant woman.",
+        "website": "https://www.healthline.com/",
+        "reference_length": 12,
+        "level": "medium"
+    },
+    {
+        "task_id": "9c97bab9c2abfb90a426cbe9addae8d0",
+        "confirmed_task": "Check the details of order 12345 with email 12345@gmail.com.",
+        "website": "https://www.macys.com/",
+        "reference_length": 8,
+        "level": "easy"
+    },
+    {
+        "task_id": "2fc51dd3febd447f0fdcdabca8d944ce",
+        "confirmed_task": "Locate a self-storage unit near zip code 60538 that can fit about a dorm room full of items and is climate-controlled.",
+        "website": "https://www.extraspace.com/",
+        "reference_length": 10,
+        "level": "medium"
+    },
+    {
+        "task_id": "871e7771cecb989972f138ecc373107b",
+        "confirmed_task": "Find the weather for Vancouver, British Columbia for the next seven days.",
+        "website": "https://www.theweathernetwork.com/",
+        "reference_length": 7,
+        "level": "easy"
+    },
+    {
+        "task_id": "9bb63ad0e38d5691a618932a8b31c05a",
+        "confirmed_task": "Look for reviews of a Nest Hello Video Doorbell and filter by 1-star ratings.",
+        "website": "https://www.google.com/shopping?udm=28",
+        "reference_length": 9,
+        "level": "easy"
+    },
+    {
+        "task_id": "4c186c6ed888d0c8d4cf4adb39443080",
+        "confirmed_task": "Find a medium Devin Booker jersey and add it to the shopping cart.",
+        "website": "https://www.nba.com/",
+        "reference_length": 9,
+        "level": "medium"
+    },
+    {
+        "task_id": "f389398d2eeb29e5571e00439c57eb76",
+        "confirmed_task": "Find the latest climate news.",
+        "website": "https://www.theweathernetwork.com/",
+        "reference_length": 7,
+        "level": "easy"
+    },
+    {
+        "task_id": "2dd41b1d0e8f389d0683f4a4627abfe6",
+        "confirmed_task": "Show houses for sale in Maryland with a maximum price of $60,000.",
+        "website": "https://www.landwatch.com/",
+        "reference_length": 12,
+        "level": "medium"
+    },
+    {
+        "task_id": "f2097f92a10d42a842c14179f422311e",
+        "confirmed_task": "Add a $50 Uber gift card to the cart.",
+        "website": "https://www.bestbuy.com/",
+        "reference_length": 6,
+        "level": "easy"
+    },
+    {
+        "task_id": "85b284c18d7e78c9b5a9e074e7aa3b98",
+        "confirmed_task": "View the cheapest apartment available for students at the University of Leeds with bills that include WIFI and cleaning services.",
+        "website": "https://www.student.com/",
+        "reference_length": 15,
+        "level": "medium"
+    },
+    {
+        "task_id": "853afd530c72f4b00ffc32ae854efaf8",
+        "confirmed_task": "Show me the wind flow map for Belo Horizonte.",
+        "website": "https://www.accuweather.com/",
+        "reference_length": 10,
+        "level": "easy"
+    },
+    {
+        "task_id": "c09721cc937d4dcfb391a0bc2c574b28",
+        "confirmed_task": "Find the next available date for Albion Basin.",
+        "website": "https://www.recreation.gov/",
+        "reference_length": 15,
+        "level": "easy"
+    },
+    {
+        "task_id": "4c572a627b53b0f9a734ab37f21819b8",
+        "confirmed_task": "Browse apartments with at least 2 bedrooms and 2 bathrooms and a max price of $4000 per month.",
+        "website": "https://craigslist.org/",
+        "reference_length": 15,
+        "level": "easy"
+    },
+    {
+        "task_id": "301f267f421b93045874726183e8f722",
+        "confirmed_task": "Find healthy savory vegan snack recipes which can be cooked within 5 minutes and contain a high level of protein.",
+        "website": "https://www.healthline.com/",
+        "reference_length": 14,
+        "level": "medium"
+    },
+    {
+        "task_id": "3ec0f6138d37fadcb989347a6088ec45",
+        "confirmed_task": "Open the page to learn more about how to get accredited.",
+        "website": "https://www.bbb.org/",
+        "reference_length": 9,
+        "level": "easy"
+    },
+    {
+        "task_id": "2207bb4f21786690cfed20b37253fb8b",
+        "confirmed_task": "Check the current wind speed in Calgary, Alberta.",
+        "website": "https://www.theweathernetwork.com/",
+        "reference_length": 7,
+        "level": "easy"
+    },
+    {
+        "task_id": "4e0f5561a76478da87995dee00b09572",
+        "confirmed_task": "Show me the monthly weather forecast for Florida City.",
+        "website": "https://www.accuweather.com/",
+        "reference_length": 10,
+        "level": "easy"
+    },
+    {
+        "task_id": "82eb3bfedd78456a0230b389f4e7a938",
+        "confirmed_task": "Open the XRP yearly chart.",
+        "website": "https://coinmarketcap.com/",
+        "reference_length": 4,
+        "level": "easy"
+    },
+    {
+        "task_id": "e7f6cca9a8875f98fee3b711ead3a444",
+        "confirmed_task": "Find the comments made by the user Separate-Camp7202.",
+        "website": "https://www.reddit.com/",
+        "reference_length": 8,
+        "level": "easy"
+    },
+    {
+        "task_id": "75a1b5dcd2c28508a971d98d51fe5767",
+        "confirmed_task": "Open the reviews of a recipe with beef sirloin.",
+        "website": "https://www.allrecipes.com/",
+        "reference_length": 7,
+        "level": "easy"
+    },
+    {
+        "task_id": "c03ee2be3d73556ab789c0ad1cbd3451",
+        "confirmed_task": "Find a dog groomer for nail trimming within 100 miles of zip code 10005 and check the detailed service prices of the first one.",
+        "website": "https://www.akc.org/",
+        "reference_length": 15,
+        "level": "hard"
+    },
+    {
+        "task_id": "05483c50cc9b04c8ac44c574758fb2bd",
+        "confirmed_task": "Look for the best rated BBB accredited charity near 12023.",
+        "website": "https://www.bbb.org/",
+        "reference_length": 13,
+        "level": "medium"
+    },
+    {
+        "task_id": "f2be37a9a60fbc25b6b11cf622d17352",
+        "confirmed_task": "Find obedience trials in state of New York during the month of May.",
+        "website": "https://www.akc.org/",
+        "reference_length": 15,
+        "level": "hard"
+    },
+    {
+        "task_id": "e24662008c3be5d56f986f232fcec447",
+        "confirmed_task": "Find the stock price for WWE over the last month.",
+        "website": "https://www.google.com/finance/",
+        "reference_length": 7,
+        "level": "easy"
+    },
+    {
+        "task_id": "b3a7da968de13bbdcaed12ffe4993df6",
+        "confirmed_task": "Compare the breeds Afghan Hound, Akita and Azawakh.",
+        "website": "https://www.akc.org/",
+        "reference_length": 13,
+        "level": "medium"
+    },
+    {
+        "task_id": "4d3157aab34b54e5f0c4b965dfe930f3",
+        "confirmed_task": "Show me community posts about pregnancy fever from the past 30 days.",
+        "website": "https://www.babycenter.com/",
+        "reference_length": 7,
+        "level": "medium"
+    },
+    {
+        "task_id": "e4e19e04286f644d747d8c5a79d17fac",
+        "confirmed_task": "Find the Drug Interaction Report for Viagra and alcohol.",
+        "website": "https://www.drugs.com/",
+        "reference_length": 8,
+        "level": "medium"
+    },
+    {
+        "task_id": "9ef1a8972f375db59c0e6329e11b7939",
+        "confirmed_task": "Find Farms land in Wilkes County, NC with the lowest price.",
+        "website": "https://www.landwatch.com/",
+        "reference_length": 11,
+        "level": "easy"
+    },
+    {
+        "task_id": "50d91eabde542906937ab4c5b6f8f23a",
+        "confirmed_task": "Calculate Pregnancy Weight Gain for a 5-week pregnancy with a 169lb weight before pregnancy and a 175lb after pregnancy with a 5.6ft height.",
+        "website": "https://www.babycenter.com/",
+        "reference_length": 15,
+        "level": "medium"
+    },
+    {
+        "task_id": "dcd26e662a616d373ddd339747c6ce5b",
+        "confirmed_task": "Take a weight management quiz to find a motivating article for a non-exercising, mostly eating out and can't control portions and cravings, and who has a strong support system, enjoys traveling, loves family time and cooking.",
+        "website": "https://www.healthline.com/",
+        "reference_length": 15,
+        "level": "hard"
+    },
+    {
+        "task_id": "b7258ee05d75e6c50673a59914db412e",
+        "confirmed_task": "Find the store location and hours of the closest Gamestop to zip code 90028 and set it as the home store on Gamestop.",
+        "website": "https://www.gamestop.com/",
+        "reference_length": 11,
+        "level": "medium"
+    },
+    {
+        "task_id": "ade4c09ad3fdb1607209750924cd232f",
+        "confirmed_task": "Compare available plans for the AeroAPI on Flightaware.",
+        "website": "https://www.flightaware.com/",
+        "reference_length": 7,
+        "level": "easy"
+    },
+    {
+        "task_id": "fb7b4f784cfde003e2548fdf4e8d6b4f",
+        "confirmed_task": "Open the page with an overview of the submission of releases on Discogs.",
+        "website": "https://www.discogs.com/",
+        "reference_length": 5,
+        "level": "medium"
+    },
+    {
+        "task_id": "046138801a05ddf56ad94e8672942496",
+        "confirmed_task": "Find discussions of the community and open one with the most replies on Flightaware.",
+        "website": "https://www.flightaware.com/",
+        "reference_length": 7,
+        "level": "medium"
+    }
+]

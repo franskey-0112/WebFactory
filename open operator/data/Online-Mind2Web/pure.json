@@ -1,0 +1,394 @@
+[
+    {
+      "task_id": "2207bb4f21786690cfed20b37253fb8b",
+      "confirmed_task": "Check the current wind speed in Calgary, Alberta.",
+      "website": "https://www.theweathernetwork.com/",
+      "reference_length": 2,
+      "level": "easy"
+    },
+    {
+      "task_id": "239a29bde438fe44fe17fe1390ef1634",
+      "confirmed_task": "Find me a gluten-free diet to lose weight for a pregnant woman.",
+      "website": "https://www.healthline.com/",
+      "reference_length": 8,
+      "level": "medium"
+    },
+    {
+      "task_id": "246d654fab7c31d9651007e39e75f74f",
+      "confirmed_task": "Open the most helpful 5-star reviews of Alpine Ridge.",
+      "website": "https://www.recreation.gov/",
+      "reference_length": 5,
+      "level": "easy"
+    },
+    {
+      "task_id": "29b7372d5a3884a2ba831af2d117af3c",
+      "confirmed_task": "Browse the first top news of Microsoft stock on Google Finance.",
+      "website": "https://www.google.com/finance/",
+      "reference_length": 3,
+      "level": "easy"
+    },
+    {
+      "task_id": "323bd85e3559655d89e5496b951a25e8",
+      "confirmed_task": "Tell me information about what identification I need to bring on my trip on Amtrak.",
+      "website": "https://www.amtrak.com/",
+      "reference_length": 6,
+      "level": "medium"
+    },
+    {
+      "task_id": "4091bdd3fa64a5b0d912bc08eaf9c824",
+      "confirmed_task": "Find the list of neighborhood maps for Brooklyn on new.mta.info.",
+      "website": "https://new.mta.info/",
+      "reference_length": 5,
+      "level": "easy"
+    },
+    {
+      "task_id": "47e314cc452c540524ffb7cf520285a3",
+      "confirmed_task": "Find the park that offers the cheapest paddling permits.",
+      "website": "https://www.recreation.gov/",
+      "reference_length": 6,
+      "level": "medium"
+    },
+    {
+      "task_id": "561693d6eec7bbfba3fefe9e4b26decb",
+      "confirmed_task": "Browse Marriott Bonvoy credit cards on Marriott.",
+      "website": "https://www.marriott.com/",
+      "reference_length": 4,
+      "level": "easy"
+    },
+    {
+      "task_id": "5c00e9561eae94789443f405525a5869",
+      "confirmed_task": "Find the recommended dosage for Vivitrol.",
+      "website": "https://www.healthline.com/",
+      "reference_length": 5,
+      "level": "easy"
+    },
+    {
+      "task_id": "65c4030f22fb6eb101acfee4825f1318",
+      "confirmed_task": "Find a female MD Cardiologist in Jacksonville, Florida.",
+      "website": "https://www.mayoclinic.org/",
+      "reference_length": 8,
+      "level": "medium"
+    },
+    {
+      "task_id": "7072d09436972a5d5fe7476e3e9f1559",
+      "confirmed_task": "Show me the comparison of the first two personal credit cards that do not charge foreign transaction fees.",
+      "website": "https://www.americanexpress.com/",
+      "reference_length": 10,
+      "level": "medium"
+    },
+    {
+      "task_id": "71f8de1834599fba443f40dbbfab8edd",
+      "confirmed_task": "Search for papers related to reinforcement learning under the topics of computer science and mathematics on arxiv, with recent submission dates between September 2024 and January 2025.",
+      "website": "https://arxiv.org/",
+      "reference_length": 11,
+      "level": "hard"
+    },
+    {
+      "task_id": "75a1b5dcd2c28508a971d98d51fe5767",
+      "confirmed_task": "Open the reviews of a recipe with beef sirloin.",
+      "website": "https://www.allrecipes.com/",
+      "reference_length": 5,
+      "level": "easy"
+    },
+    {
+      "task_id": "78f397336b6fd1cbba0127db7a8cd502",
+      "confirmed_task": "Browse the upcoming SuperBike events taking place in Italy.",
+      "website": "https://www.redbull.com/",
+      "reference_length": 8,
+      "level": "medium"
+    },
+    {
+      "task_id": "7abdceee212151f187ee1a1744c57606",
+      "confirmed_task": "Can you show me the page with the filing fee for a self-petitioned I-140 application?",
+      "website": "https://www.uscis.gov/",
+      "reference_length": 6,
+      "level": "medium"
+    },
+    {
+      "task_id": "ade4c09ad3fdb1607209750924cd232f",
+      "confirmed_task": "Compare available plans for the AeroAPI on Flightaware.",
+      "website": "https://www.flightaware.com/",
+      "reference_length": 4,
+      "level": "easy"
+    },
+    {
+      "task_id": "c3307a70bb12ebf56cc9ec926b368f15",
+      "confirmed_task": "Find the interactions between Eulexin and hepatic dysfunction.",
+      "website": "https://www.drugs.com/",
+      "reference_length": 5,
+      "level": "easy"
+    },
+    {
+      "task_id": "c7c07ec10c668625a21ba64165d719bb",
+      "confirmed_task": "Find the total monthly price for four prepaid unlimited lines without autopay discounts.",
+      "website": "https://www.verizon.com/",
+      "reference_length": 8,
+      "level": "medium"
+    },
+    {
+      "task_id": "e24662008c3be5d56f986f232fcec447",
+      "confirmed_task": "Find the stock price for WWE over the last month.",
+      "website": "https://www.google.com/finance/",
+      "reference_length": 4,
+      "level": "easy"
+    },
+    {
+      "task_id": "e3ab665e01e7632ce33ac1aeca14aff6",
+      "confirmed_task": "Find the next available dates for Alley Creek Camp.",
+      "website": "https://www.recreation.gov/",
+      "reference_length": 3,
+      "level": "easy"
+    },
+    {
+      "task_id": "f389398d2eeb29e5571e00439c57eb76",
+      "confirmed_task": "Find the latest climate news.",
+      "website": "https://www.theweathernetwork.com/",
+      "reference_length": 3,
+      "level": "easy"
+    },
+    {
+      "task_id": "6b5be1764692d1dc8f17dc4375b2daa8",
+      "confirmed_task": "Show me historical data for EUR/USD.",
+      "website": "https://finance.yahoo.com/",
+      "reference_length": 4,
+      "level": "easy"
+    },
+    {
+      "task_id": "828c2d98616a9478d5864d847d5a1b28",
+      "confirmed_task": "Browse the list of Civil Division forms.",
+      "website": "https://www.justice.gov/",
+      "reference_length": 4,
+      "level": "easy"
+    },
+    {
+      "task_id": "9586827ad04ee2362f4f0076bf0f0468",
+      "confirmed_task": "Find the side effects of taking Montelukast.",
+      "website": "https://www.drugs.com/",
+      "reference_length": 6,
+      "level": "medium"
+    },
+    {
+      "task_id": "95cad96f2e43f3c0d8efad1331c77c8c",
+      "confirmed_task": "View the list of the Most Popular TV on rotten tomatoes.",
+      "website": "https://www.rottentomatoes.com/",
+      "reference_length": 3,
+      "level": "easy"
+    },
+    {
+      "task_id": "ab6ee3b83aab6cd283320f5e01003cff",
+      "confirmed_task": "Find the tech specs of the MacBook Pro 16-inch introduced in November 2023.",
+      "website": "https://www.apple.com/",
+      "reference_length": 7,
+      "level": "medium"
+    },
+    {
+      "task_id": "c8d7f2aa7eb5dd074c48c9f76f8659ad",
+      "confirmed_task": "Show Teen Driver Safety program information.",
+      "website": "https://www.dmv.virginia.gov/",
+      "reference_length": 2,
+      "level": "easy"
+    },
+    {
+      "task_id": "d392e154c1c6ffbb26e2331c3afafc67",
+      "confirmed_task": "Add a $100 Best Buy gift card for a birthday to my cart.",
+      "website": "https://www.bestbuy.com/",
+      "reference_length": 6,
+      "level": "medium"
+    },
+    {
+      "task_id": "f2097f92a10d42a842c14179f422311e",
+      "confirmed_task": "Add a $50 Uber gift card to the cart.",
+      "website": "https://www.bestbuy.com/",
+      "reference_length": 4,
+      "level": "easy"
+    },
+    {
+      "task_id": "fd787623166785d84093565bf945fd24",
+      "confirmed_task": "Check the interaction between Novolin N and Novolin R.",
+      "website": "https://www.drugs.com/",
+      "reference_length": 6,
+      "level": "medium"
+    },
+    {
+      "task_id": "0059adc6b12a3822305deb68929b2de8",
+      "confirmed_task": "Find support services jobs in Bentonville, in the state of Arkansas.",
+      "website": "https://careers.walmart.com/",
+      "reference_length": 8,
+      "level": "medium"
+    },
+    {
+      "task_id": "271b36efd4346721b5542488ff997042",
+      "confirmed_task": "Browse 8K Samsung TVs that are open box.",
+      "website": "https://www.bestbuy.com/",
+      "reference_length": 4,
+      "level": "easy"
+    },
+    {
+      "task_id": "34ccd15a8ea8fd3895af83f5ccf62369",
+      "confirmed_task": "Find out what to do when I lose an item on a bus on us.megabus.",
+      "website": "https://us.megabus.com/",
+      "reference_length": 3,
+      "level": "easy"
+    },
+    {
+      "task_id": "38203be65401943aea2179c4c680059a",
+      "confirmed_task": "Check the status of bus S92 for any disruptions on new.mta.info.",
+      "website": "https://new.mta.info/",
+      "reference_length": 6,
+      "level": "medium"
+    },
+    {
+      "task_id": "47b93b9e649eadeb8d96a6e3df715c2d",
+      "confirmed_task": "Show me Diagnoses & Treatment for Female infertility.",
+      "website": "https://www.mayoclinic.org/",
+      "reference_length": 4,
+      "level": "easy"
+    },
+    {
+      "task_id": "4e3f6a538cc1f7321cfc50260db9545d",
+      "confirmed_task": "Look up the current temperature for zip code 10019.",
+      "website": "https://www.theweathernetwork.com/",
+      "reference_length": 2,
+      "level": "easy"
+    },
+    {
+      "task_id": "73d08420706ae205a9c5be28b6d4e80f",
+      "confirmed_task": "Show me the rules and cancellation for Alley Spring.",
+      "website": "https://www.recreation.gov/",
+      "reference_length": 3,
+      "level": "easy"
+    },
+    {
+      "task_id": "78baf9dbe7c3532f7d7ef4cc22a7f065",
+      "confirmed_task": "Find the most popular digital trends report in the Finance & Insurance industry within the region of China.",
+      "website": "https://www.statista.com/",
+      "reference_length": 8,
+      "level": "medium"
+    },
+    {
+      "task_id": "8103786e0e5976ebf961bd062d5f39cd",
+      "confirmed_task": "Find possible causes for the symptoms of chest pain which is sharp which is accompanied by anxiety.",
+      "website": "https://www.mayoclinic.org/",
+      "reference_length": 9,
+      "level": "medium"
+    },
+    {
+      "task_id": "82eb3bfedd78456a0230b389f4e7a938",
+      "confirmed_task": "Open the XRP yearly chart.",
+      "website": "https://coinmarketcap.com/",
+      "reference_length": 4,
+      "level": "easy"
+    },
+    {
+      "task_id": "871e7771cecb989972f138ecc373107b",
+      "confirmed_task": "Find the weather for Vancouver, British Columbia for the next seven days.",
+      "website": "https://www.theweathernetwork.com/",
+      "reference_length": 3,
+      "level": "easy"
+    },
+    {
+      "task_id": "b962927dfe03bf2274a54381127ed433",
+      "confirmed_task": "Find the best-selling vinyl record by an artist from New York City in the classical music genre.",
+      "website": "https://bandcamp.com/",
+      "reference_length": 8,
+      "level": "medium"
+    },
+    {
+      "task_id": "c09721cc937d4dcfb391a0bc2c574b28",
+      "confirmed_task": "Find the next available date for Albion Basin.",
+      "website": "https://www.recreation.gov/",
+      "reference_length": 3,
+      "level": "easy"
+    },
+    {
+      "task_id": "c39d6c245f8243993e707d54d2f4acec",
+      "confirmed_task": "Browse the final skin in the list for the champion Ahri.",
+      "website": "https://www.leagueoflegends.com/",
+      "reference_length": 18,
+      "level": "hard"
+    },
+    {
+      "task_id": "d5c34bf39eb6096ae5d439325cde4d32",
+      "confirmed_task": "Find a DMV center in Richmond.",
+      "website": "https://www.dmv.virginia.gov/",
+      "reference_length": 5,
+      "level": "easy"
+    },
+    {
+      "task_id": "07ec4a12cba8090e2dc524d558ac7675",
+      "confirmed_task": "Check drug interaction for melatonin and Folate Forte.",
+      "website": "https://www.drugs.com/",
+      "reference_length": 6,
+      "level": "medium"
+    },
+    {
+      "task_id": "1c3b747ae12ccee895745f82e3f2ef8a",
+      "confirmed_task": "Identify the ongoing competition that offers the highest prize and find the code that received the most votes in that competition.",
+      "website": "https://www.kaggle.com/",
+      "reference_length": 11,
+      "level": "hard"
+    },
+    {
+      "task_id": "1fc28d91d25ccd1c6ba268101326a654",
+      "confirmed_task": "Find the 5-day price chart for Bitcoin.",
+      "website": "https://www.google.com/finance/",
+      "reference_length": 3,
+      "level": "easy"
+    },
+    {
+      "task_id": "20a460a8fe1971b84411c5b1e6ac4186",
+      "confirmed_task": "Show theatre events for Las Vegas and select one.",
+      "website": "https://www.stubhub.com/",
+      "reference_length": 3,
+      "level": "easy"
+    },
+    {
+      "task_id": "29526b17a32485742b5ab63507e99417",
+      "confirmed_task": "Browse Humira dosage information.",
+      "website": "https://www.drugs.com/",
+      "reference_length": 3,
+      "level": "easy"
+    },
+    {
+      "task_id": "4c572a627b53b0f9a734ab37f21819b8",
+      "confirmed_task": "Browse apartments with at least 2 bedrooms and 2 bathrooms and a max price of $4000 per month.",
+      "website": "https://craigslist.org/",
+      "reference_length": 5,
+      "level": "easy"
+    },
+    {
+      "task_id": "52efbab520734ef9bf7c09ba0f62cdc8",
+      "confirmed_task": "Find the app for iOS.",
+      "website": "https://www.recreation.gov/",
+      "reference_length": 2,
+      "level": "easy"
+    },
+    {
+      "task_id": "a69d2934fe54fef165490a5a2d95bf38",
+      "confirmed_task": "Show me recipes for pancakes with wheat and without beetroot.",
+      "website": "https://cookpad.com/",
+      "reference_length": 6,
+      "level": "medium"
+    },
+    {
+      "task_id": "b6d10e9bd19b4009a02dea0e98f4e1ae",
+      "confirmed_task": "Check the current standings for MLS on Fox Sports.",
+      "website": "https://www.foxsports.com/",
+      "reference_length": 4,
+      "level": "easy"
+    },
+    {
+      "task_id": "d71be72aa25c3eab8eea47a0e60382e2",
+      "confirmed_task": "Find technical specs for the latest Macbook Air on Apple.",
+      "website": "https://www.apple.com/",
+      "reference_length": 4,
+      "level": "easy"
+    },
+    {
+      "task_id": "e4e19e04286f644d747d8c5a79d17fac",
+      "confirmed_task": "Find the Drug Interaction Report for Viagra and alcohol.",
+      "website": "https://www.drugs.com/",
+      "reference_length": 6,
+      "level": "medium"
+    }
+]

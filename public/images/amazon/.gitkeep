@@ -1,0 +1,136 @@
+# Amazon Images Directory
+
+This directory contains all images for the Amazon website.
+
+## Directory Structure
+
+```
+public/images/amazon/
+├── products/
+│   ├── electronics/
+│   │   ├── smartphones/
+│   │   │   ├── iphone-15-pro-1.jpg
+│   │   │   ├── iphone-15-pro-2.jpg
+│   │   │   ├── iphone-15-pro-3.jpg
+│   │   │   ├── samsung-galaxy-s24-1.jpg
+│   │   │   └── samsung-galaxy-s24-2.jpg
+│   │   ├── laptops/
+│   │   │   ├── macbook-air-m3-1.jpg
+│   │   │   ├── macbook-air-m3-2.jpg
+│   │   │   ├── dell-xps-13-1.jpg
+│   │   │   └── dell-xps-13-2.jpg
+│   │   ├── headphones/
+│   │   ├── cameras/
+│   │   └── gaming/
+│   ├── books/
+│   │   ├── fiction/
+│   │   │   ├── fourth-wing-1.jpg
+│   │   │   └── fourth-wing-2.jpg
+│   │   ├── non-fiction/
+│   │   │   ├── atomic-habits-1.jpg
+│   │   │   └── atomic-habits-2.jpg
+│   │   ├── textbooks/
+│   │   ├── children/
+│   │   └── comics/
+│   ├── home-garden/
+│   │   ├── kitchen/
+│   │   │   ├── instant-pot-duo-1.jpg
+│   │   │   └── instant-pot-duo-2.jpg
+│   │   ├── furniture/
+│   │   ├── tools/
+│   │   ├── garden/
+│   │   └── bedding/
+│   ├── clothing/
+│   │   ├── mens-clothing/
+│   │   │   ├── levi-501-1.jpg
+│   │   │   └── levi-501-2.jpg
+│   │   ├── womens-clothing/
+│   │   ├── shoes/
+│   │   ├── jewelry/
+│   │   └── watches/
+│   └── sports/
+│       ├── fitness/
+│       ├── outdoor-recreation/
+│       │   ├── yeti-tumbler-1.jpg
+│       │   └── yeti-tumbler-2.jpg
+│       ├── sports-equipment/
+│       └── water-sports/
+├── banners/
+│   ├── electronics-sale.jpg
+│   ├── prime-day.jpg
+│   └── books-sale.jpg
+├── brands/
+│   ├── apple.png
+│   ├── samsung.png
+│   ├── dell.png
+│   ├── levis.png
+│   ├── yeti.png
+│   └── instant-pot.png
+├── reviews/
+│   ├── review1.jpg
+│   └── review2.jpg
+└── accessories/
+    ├── charger.jpg
+    └── case.jpg
+```
+
+## Image Requirements
+
+### Product Images
+- **Format**: JPG or PNG
+- **Resolution**: Minimum 800x800px for main product images
+- **Aspect Ratio**: 1:1 (square) preferred for grid display
+- **Background**: White or transparent for product shots
+- **Multiple Views**: At least 2-3 images per product showing different angles
+
+### Banner Images
+- **Format**: JPG
+- **Resolution**: 1920x600px for desktop banners
+- **Mobile**: Responsive design with 16:9 aspect ratio
+- **Text Overlay**: Leave space for text overlays if needed
+
+### Brand Logos
+- **Format**: PNG with transparency
+- **Resolution**: 200x200px minimum
+- **Style**: Official brand logos in high quality
+
+### Review Images
+- **Format**: JPG
+- **Resolution**: 400x400px minimum
+- **Content**: User-generated content style images
+
+## Adding New Images
+
+1. **Organize by Category**: Place images in the appropriate category subfolder
+2. **Naming Convention**: Use product ID or descriptive names with numbers
+   - Example: `iphone-15-pro-1.jpg`, `iphone-15-pro-2.jpg`
+3. **Optimize Images**: Compress images for web use while maintaining quality
+4. **Update Data**: Update the product data in `src/data/amazonData.js` to reference new images
+
+## Placeholder Images
+
+If actual product images are not available, the system will fall back to:
+- `/images/placeholder-product.jpg` for missing product images
+- Default brand icons for missing brand logos
+- Generic banner backgrounds for missing banners
+
+## Image Management
+
+### Automatic Optimization
+- Use Next.js Image component for automatic optimization
+- Lazy loading implemented for better performance
+- WebP format conversion for supported browsers
+
+### CDN Integration
+- Images can be served from a CDN for better performance
+- Update the base URL in the image paths as needed
+- Consider using Next.js Image domains configuration
+
+## Performance Considerations
+
+- **Image Size**: Keep file sizes under 500KB for product images
+- **Format**: Use WebP when possible, fallback to JPG/PNG
+- **Lazy Loading**: Implemented by default with Next.js Image component
+- **Caching**: Set appropriate cache headers for static images
+
+This structure provides a scalable and organized approach to managing all Amazon website images. 

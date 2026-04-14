@@ -1,0 +1,142 @@
+# Hotel Images Directory Structure
+
+This directory contains all images for the hotel booking website. Follow the organized structure below to maintain consistency and ease of management.
+
+## 📁 Directory Structure
+
+```
+public/images/hotels/
+├── destinations/           # Destination images
+│   ├── nyc.jpg
+│   ├── miami.jpg
+│   ├── san-francisco.jpg
+│   ├── boston.jpg
+│   ├── aspen.jpg
+│   └── chicago.jpg
+├── hotels/                 # Hotel property images
+│   ├── grand-luxury-hotel-1.jpg
+│   ├── grand-luxury-hotel-2.jpg
+│   ├── boutique-garden-hotel-1.jpg
+│   ├── oceanview-resort-1.jpg
+│   ├── historic-downtown-inn-1.jpg
+│   ├── mountain-lodge-retreat-1.jpg
+│   └── business-plaza-hotel-1.jpg
+├── rooms/                  # Room type images
+│   ├── grand-luxury-deluxe-room.jpg
+│   ├── grand-luxury-executive-suite.jpg
+│   ├── boutique-garden-standard-room.jpg
+│   ├── oceanview-resort-ocean-room.jpg
+│   └── [hotel-name]-[room-type].jpg
+├── amenities/              # Hotel amenity icons and images
+│   ├── swimming-pool.jpg
+│   ├── fitness-center.jpg
+│   ├── spa-wellness.jpg
+│   ├── restaurant.jpg
+│   ├── business-center.jpg
+│   └── wifi.jpg
+└── placeholder-hotel.jpg   # Default fallback image
+```
+
+## 🖼️ Image Requirements
+
+### Hotel Property Images
+- **Format**: JPG or PNG
+- **Resolution**: 1200x800px (3:2 aspect ratio)
+- **File Size**: Under 500KB for web optimization
+- **Background**: Real hotel photos preferred
+
+### Room Images
+- **Format**: JPG
+- **Resolution**: 800x600px (4:3 aspect ratio)
+- **File Size**: Under 300KB
+- **Content**: Show room layout, bed, and key features
+
+### Destination Images
+- **Format**: JPG
+- **Resolution**: 1600x900px (16:9 aspect ratio)
+- **File Size**: Under 800KB
+- **Content**: Iconic landmarks or cityscape views
+
+### Amenity Images
+- **Format**: JPG or PNG
+- **Resolution**: 400x300px
+- **File Size**: Under 200KB
+- **Style**: Clean, professional photos or icons
+
+## 📝 Naming Conventions
+
+### Hotel Images
+- Pattern: `[hotel-slug]-[number].jpg`
+- Examples:
+  - `grand-luxury-hotel-1.jpg`
+  - `boutique-garden-hotel-2.jpg`
+  - `oceanview-resort-3.jpg`
+
+### Room Images
+- Pattern: `[hotel-slug]-[room-type].jpg`
+- Examples:
+  - `grand-luxury-deluxe-room.jpg`
+  - `boutique-garden-garden-suite.jpg`
+  - `oceanview-resort-presidential-suite.jpg`
+
+### Destination Images
+- Pattern: `[destination-slug].jpg`
+- Examples:
+  - `new-york-city.jpg`
+  - `san-francisco.jpg`
+  - `miami-beach.jpg`
+
+## 🚀 Adding New Images
+
+### For New Hotels:
+1. Create hotel property images following the naming convention
+2. Add room type images for each available room
+3. Update `src/data/staticHotelData.js` with correct image paths
+4. Ensure all images are optimized for web
+
+### For New Destinations:
+1. Add destination image to `destinations/` folder
+2. Update destination data in `src/utils/hotelData.js`
+3. Reference in homepage destination cards
+
+### Image Optimization Tips:
+- Use tools like TinyPNG or ImageOptim for compression
+- Maintain consistent aspect ratios
+- Use descriptive alt text in components
+- Consider lazy loading for better performance
+
+## 🔄 Fallback Images
+
+If specific images are not available, the system uses:
+- `placeholder-hotel.jpg` for missing hotel images
+- CSS gradients for missing destination images
+- Font icons for missing amenity images
+
+## 📊 Performance Considerations
+
+- All images should be optimized for web
+- Use Next.js Image component for automatic optimization
+- Consider implementing responsive images for different screen sizes
+- Monitor Core Web Vitals impact
+
+## 🎨 Style Guidelines
+
+- Professional, high-quality photography
+- Consistent lighting and color temperature
+- Avoid heavily filtered or unrealistic images
+- Focus on showcasing hotel features and ambiance
+- Maintain brand consistency across all images
+
+---
+
+## Quick Start Checklist
+
+- [ ] Add hotel property images
+- [ ] Add room type images
+- [ ] Add destination images
+- [ ] Update data files with image paths
+- [ ] Test image loading in browser
+- [ ] Verify responsive behavior
+- [ ] Check fallback image handling
+
+**Remember**: Images significantly impact user experience and booking conversion rates. Invest in high-quality, appealing visuals that accurately represent the properties. 
