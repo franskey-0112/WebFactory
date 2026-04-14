@@ -55,6 +55,9 @@ open operator/Embedding/experiments/
 *.pt
 *.pth
 
+# Paper PDF
+WebFactory.pdf
+
 # Evaluation artifacts
 screenshots/
 screens/
